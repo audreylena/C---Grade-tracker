@@ -48,4 +48,3 @@ The Student Grade Manager allows users to:
 
 ---
 
-## 📸 Sample Menu (Illustration)
