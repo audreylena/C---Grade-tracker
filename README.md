@@ -35,7 +35,7 @@ The Student Grade Manager allows users to:
 ## 🧰 Tools & Environment
 - **Language:** C++  
 - **Compiler:** g++  
-- **Editor:** VS Code / Notepad++  
+- **Editor:** VS Code 
 - **Platform:** Linux (CELL servers)  
 
 ---
